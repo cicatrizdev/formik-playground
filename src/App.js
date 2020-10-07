@@ -1,10 +1,9 @@
 import React from 'react';
+import FormPlayground from './components/FormPlayground';
 
 function App() {
   return (
-    <div className="App">
-
-    </div>
+    <FormPlayground/>
   );
 }
 
